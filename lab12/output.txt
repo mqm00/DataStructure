@@ -1,0 +1,10 @@
+insert error : key 34 is already in the tree!
+insert error : key 56 is already in the tree!
+insert error : key 78 is already in the tree!
+insert error : key 4 is already in the tree!
+4 10 15 16 26 31 34 40 56 70 77 78 82 87 90 98 300 
+finding error : key 5 is not in the tree!
+key 32 found
+4 10 15 16 26 31 32 34 40 54 56 70 77 78 82 87 90 92 98 300 
+key 10 found
+4 10 15 16 26 29 31 32 34 40 54 56 70 77 78 82 87 90 92 98 300 
